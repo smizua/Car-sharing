@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1088px;
+    
+}
+
+.banner {
+    background-image: url(../images/Image.png);
+    background-size: cover;
+    display: flex;
+
+}
+
+nav {
+    text-transform: uppercase;
+    
+    
+}
+
+li {
+    display: inline-block;
+}
+
+p {
+    font-size: 100px;
+    color: red;
+}
